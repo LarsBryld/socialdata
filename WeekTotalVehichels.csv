@@ -1,0 +1,155 @@
+,DayName,Vejnavn,Total Vehicles
+0,Monday,Ellebjergvej,15630505.0
+1,Tuesday,Ellebjergvej,16179688.0
+2,Wednesday,Ellebjergvej,16378277.0
+3,Thursday,Ellebjergvej,16332990.0
+4,Friday,Ellebjergvej,16514863.0
+5,Saturday,Ellebjergvej,12160961.0
+6,Sunday,Ellebjergvej,11089976.0
+7,Monday,Englandsvej,5687412.0
+8,Tuesday,Englandsvej,5837473.0
+9,Wednesday,Englandsvej,5895657.0
+10,Thursday,Englandsvej,5884183.0
+11,Friday,Englandsvej,5969419.0
+12,Saturday,Englandsvej,4832629.0
+13,Sunday,Englandsvej,4510926.0
+14,Monday,Fredensbro,16392079.0
+15,Tuesday,Fredensbro,17162904.0
+16,Wednesday,Fredensbro,17402555.0
+17,Thursday,Fredensbro,17339683.0
+18,Friday,Fredensbro,17267360.0
+19,Saturday,Fredensbro,12514266.0
+20,Sunday,Fredensbro,11377582.0
+21,Monday,Frederikssundsvej,8934682.0
+22,Tuesday,Frederikssundsvej,9065717.0
+23,Wednesday,Frederikssundsvej,9115401.0
+24,Thursday,Frederikssundsvej,9061887.0
+25,Friday,Frederikssundsvej,9447224.0
+26,Saturday,Frederikssundsvej,8158757.0
+27,Sunday,Frederikssundsvej,7186713.0
+28,Monday,Gadelandet,3150021.0
+29,Tuesday,Gadelandet,3211812.0
+30,Wednesday,Gadelandet,3078294.0
+31,Thursday,Gadelandet,3016718.0
+32,Friday,Gadelandet,3197461.0
+33,Saturday,Gadelandet,2391494.0
+34,Sunday,Gadelandet,2142074.0
+35,Monday,Hareskovvej,8074066.0
+36,Tuesday,Hareskovvej,8675230.0
+37,Wednesday,Hareskovvej,8765101.0
+38,Thursday,Hareskovvej,8674047.0
+39,Friday,Hareskovvej,8417835.0
+40,Saturday,Hareskovvej,5392639.0
+41,Sunday,Hareskovvej,5122665.0
+42,Monday,Islands Brygge,2288347.0
+43,Tuesday,Islands Brygge,2372302.0
+44,Wednesday,Islands Brygge,2394349.0
+45,Thursday,Islands Brygge,2372129.0
+46,Friday,Islands Brygge,2302967.0
+47,Saturday,Islands Brygge,1343032.0
+48,Sunday,Islands Brygge,1252787.0
+49,Monday,Jagtvej,6566868.0
+50,Tuesday,Jagtvej,6753008.0
+51,Wednesday,Jagtvej,6854167.0
+52,Thursday,Jagtvej,6774599.0
+53,Friday,Jagtvej,6753239.0
+54,Saturday,Jagtvej,6328096.0
+55,Sunday,Jagtvej,5986344.0
+56,Monday,KalkbrÃ¦nderihavnsgade,6121494.0
+57,Tuesday,KalkbrÃ¦nderihavnsgade,6478529.0
+58,Wednesday,KalkbrÃ¦nderihavnsgade,6636465.0
+59,Thursday,KalkbrÃ¦nderihavnsgade,6444775.0
+60,Friday,KalkbrÃ¦nderihavnsgade,6296022.0
+61,Saturday,KalkbrÃ¦nderihavnsgade,3636155.0
+62,Sunday,KalkbrÃ¦nderihavnsgade,3461355.0
+63,Monday,Kalvebod Brygge,13463185.0
+64,Tuesday,Kalvebod Brygge,13480244.0
+65,Wednesday,Kalvebod Brygge,15709755.0
+66,Thursday,Kalvebod Brygge,16000166.0
+67,Friday,Kalvebod Brygge,16118015.0
+68,Saturday,Kalvebod Brygge,12716556.0
+69,Sunday,Kalvebod Brygge,11811514.0
+70,Monday,Molbechsvej,1373982.0
+71,Tuesday,Molbechsvej,1416103.0
+72,Wednesday,Molbechsvej,1421244.0
+73,Thursday,Molbechsvej,1396088.0
+74,Friday,Molbechsvej,1353747.0
+75,Saturday,Molbechsvej,809899.0
+76,Sunday,Molbechsvej,674556.0
+77,Monday,Mozartsvej,1653099.0
+78,Tuesday,Mozartsvej,1666407.0
+79,Wednesday,Mozartsvej,1681425.0
+80,Thursday,Mozartsvej,1681034.0
+81,Friday,Mozartsvej,1735164.0
+82,Saturday,Mozartsvej,1501658.0
+83,Sunday,Mozartsvej,1392849.0
+84,Monday,Roskildevej,3975571.0
+85,Tuesday,Roskildevej,4099183.0
+86,Wednesday,Roskildevej,4064456.0
+87,Thursday,Roskildevej,4094167.0
+88,Friday,Roskildevej,4145293.0
+89,Saturday,Roskildevej,3089800.0
+90,Sunday,Roskildevej,2781741.0
+91,Monday,Skt. Kjelds Gade,458210.0
+92,Tuesday,Skt. Kjelds Gade,478007.0
+93,Wednesday,Skt. Kjelds Gade,475466.0
+94,Thursday,Skt. Kjelds Gade,467126.0
+95,Friday,Skt. Kjelds Gade,456164.0
+96,Saturday,Skt. Kjelds Gade,348318.0
+97,Sunday,Skt. Kjelds Gade,335801.0
+98,Monday,SÃ¸lvgade,5478080.0
+99,Tuesday,SÃ¸lvgade,5821428.0
+100,Wednesday,SÃ¸lvgade,5910760.0
+101,Thursday,SÃ¸lvgade,5924994.0
+102,Friday,SÃ¸lvgade,5898148.0
+103,Saturday,SÃ¸lvgade,3904639.0
+104,Sunday,SÃ¸lvgade,3328700.0
+105,Monday,Torvegade,14624050.0
+106,Tuesday,Torvegade,15053806.0
+107,Wednesday,Torvegade,15264080.0
+108,Thursday,Torvegade,15314490.0
+109,Friday,Torvegade,15547880.0
+110,Saturday,Torvegade,12426189.0
+111,Sunday,Torvegade,11939044.0
+112,Monday,Tuborgvej,12716338.0
+113,Tuesday,Tuborgvej,13304611.0
+114,Wednesday,Tuborgvej,13368080.0
+115,Thursday,Tuborgvej,13180614.0
+116,Friday,Tuborgvej,12611631.0
+117,Saturday,Tuborgvej,8315372.0
+118,Sunday,Tuborgvej,8021064.0
+119,Monday,Vejlands AlleÂ´,8652536.0
+120,Tuesday,Vejlands AlleÂ´,8936662.0
+121,Wednesday,Vejlands AlleÂ´,9119851.0
+122,Thursday,Vejlands AlleÂ´,9121380.0
+123,Friday,Vejlands AlleÂ´,9232185.0
+124,Saturday,Vejlands AlleÂ´,6911166.0
+125,Sunday,Vejlands AlleÂ´,5995752.0
+126,Monday,Vigerslev AllÃ©,9327420.0
+127,Tuesday,Vigerslev AllÃ©,9513685.0
+128,Wednesday,Vigerslev AllÃ©,9665938.0
+129,Thursday,Vigerslev AllÃ©,9637040.0
+130,Friday,Vigerslev AllÃ©,9746455.0
+131,Saturday,Vigerslev AllÃ©,7338861.0
+132,Sunday,Vigerslev AllÃ©,6623667.0
+133,Monday,Wittenberggade,2027893.0
+134,Tuesday,Wittenberggade,2058249.0
+135,Wednesday,Wittenberggade,2084733.0
+136,Thursday,Wittenberggade,2069900.0
+137,Friday,Wittenberggade,2176336.0
+138,Saturday,Wittenberggade,1765335.0
+139,Sunday,Wittenberggade,1329288.0
+140,Monday,Ãboulevard,10531711.0
+141,Tuesday,Ãboulevard,11141578.0
+142,Wednesday,Ãboulevard,11406931.0
+143,Thursday,Ãboulevard,11276139.0
+144,Friday,Ãboulevard,11289493.0
+145,Saturday,Ãboulevard,8130771.0
+146,Sunday,Ãboulevard,7468673.0
+147,Monday,Ãrestads Boulevard,3391214.0
+148,Tuesday,Ãrestads Boulevard,3395731.0
+149,Wednesday,Ãrestads Boulevard,3445236.0
+150,Thursday,Ãrestads Boulevard,3400800.0
+151,Friday,Ãrestads Boulevard,3580083.0
+152,Saturday,Ãrestads Boulevard,2917885.0
+153,Sunday,Ãrestads Boulevard,2085884.0
