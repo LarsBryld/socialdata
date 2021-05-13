@@ -1,0 +1,529 @@
+,Hour,Vejnavn,Total Vehicles
+0,00,Ellebjergvej,1239767.0
+1,01,Ellebjergvej,825821.0
+2,02,Ellebjergvej,661743.0
+3,03,Ellebjergvej,656748.0
+4,04,Ellebjergvej,882134.0
+5,05,Ellebjergvej,1867913.0
+6,06,Ellebjergvej,3915303.0
+7,07,Ellebjergvej,5850592.0
+8,08,Ellebjergvej,5930777.0
+9,09,Ellebjergvej,5590250.0
+10,10,Ellebjergvej,5724926.0
+11,11,Ellebjergvej,6188110.0
+12,12,Ellebjergvej,6641581.0
+13,13,Ellebjergvej,6864556.0
+14,14,Ellebjergvej,7523700.0
+15,15,Ellebjergvej,8017745.0
+16,16,Ellebjergvej,7971036.0
+17,17,Ellebjergvej,6970975.0
+18,18,Ellebjergvej,5471319.0
+19,19,Ellebjergvej,4113563.0
+20,20,Ellebjergvej,3480215.0
+21,21,Ellebjergvej,3100933.0
+22,22,Ellebjergvej,2749689.0
+23,23,Ellebjergvej,2047864.0
+24,00,Englandsvej,411840.0
+25,01,Englandsvej,258596.0
+26,02,Englandsvej,180262.0
+27,03,Englandsvej,167936.0
+28,04,Englandsvej,240815.0
+29,05,Englandsvej,462444.0
+30,06,Englandsvej,1138545.0
+31,07,Englandsvej,2138180.0
+32,08,Englandsvej,2253404.0
+33,09,Englandsvej,2092296.0
+34,10,Englandsvej,2223732.0
+35,11,Englandsvej,2428602.0
+36,12,Englandsvej,2586121.0
+37,13,Englandsvej,2670219.0
+38,14,Englandsvej,2829353.0
+39,15,Englandsvej,3045752.0
+40,16,Englandsvej,2999452.0
+41,17,Englandsvej,2670470.0
+42,18,Englandsvej,2119612.0
+43,19,Englandsvej,1616602.0
+44,20,Englandsvej,1291855.0
+45,21,Englandsvej,1109315.0
+46,22,Englandsvej,988228.0
+47,23,Englandsvej,694068.0
+48,00,Fredensbro,1721162.0
+49,01,Fredensbro,1141297.0
+50,02,Fredensbro,902080.0
+51,03,Fredensbro,825239.0
+52,04,Fredensbro,867552.0
+53,05,Fredensbro,1164305.0
+54,06,Fredensbro,2545682.0
+55,07,Fredensbro,5793438.0
+56,08,Fredensbro,6951655.0
+57,09,Fredensbro,6421017.0
+58,10,Fredensbro,6039354.0
+59,11,Fredensbro,6297494.0
+60,12,Fredensbro,6742912.0
+61,13,Fredensbro,6830851.0
+62,14,Fredensbro,7340274.0
+63,15,Fredensbro,8024249.0
+64,16,Fredensbro,8179095.0
+65,17,Fredensbro,7740946.0
+66,18,Fredensbro,6394911.0
+67,19,Fredensbro,4702062.0
+68,20,Fredensbro,3660881.0
+69,21,Fredensbro,3340717.0
+70,22,Fredensbro,3192256.0
+71,23,Fredensbro,2637000.0
+72,00,Frederikssundsvej,1321687.0
+73,01,Frederikssundsvej,895690.0
+74,02,Frederikssundsvej,698571.0
+75,03,Frederikssundsvej,581948.0
+76,04,Frederikssundsvej,545891.0
+77,05,Frederikssundsvej,633609.0
+78,06,Frederikssundsvej,1144264.0
+79,07,Frederikssundsvej,2295198.0
+80,08,Frederikssundsvej,3017202.0
+81,09,Frederikssundsvej,2776911.0
+82,10,Frederikssundsvej,3018012.0
+83,11,Frederikssundsvej,3429287.0
+84,12,Frederikssundsvej,3760813.0
+85,13,Frederikssundsvej,3947386.0
+86,14,Frederikssundsvej,4171925.0
+87,15,Frederikssundsvej,4431419.0
+88,16,Frederikssundsvej,4381522.0
+89,17,Frederikssundsvej,4080705.0
+90,18,Frederikssundsvej,3607504.0
+91,19,Frederikssundsvej,3037857.0
+92,20,Frederikssundsvej,2644922.0
+93,21,Frederikssundsvej,2401140.0
+94,22,Frederikssundsvej,2269067.0
+95,23,Frederikssundsvej,1877851.0
+96,00,Gadelandet,216659.0
+97,01,Gadelandet,122010.0
+98,02,Gadelandet,93018.0
+99,03,Gadelandet,122964.0
+100,04,Gadelandet,221702.0
+101,05,Gadelandet,510141.0
+102,06,Gadelandet,1045357.0
+103,07,Gadelandet,1349564.0
+104,08,Gadelandet,1063623.0
+105,09,Gadelandet,959917.0
+106,10,Gadelandet,1007224.0
+107,11,Gadelandet,1113307.0
+108,12,Gadelandet,1230276.0
+109,13,Gadelandet,1435496.0
+110,14,Gadelandet,1697936.0
+111,15,Gadelandet,1740740.0
+112,16,Gadelandet,1455864.0
+113,17,Gadelandet,1110803.0
+114,18,Gadelandet,886228.0
+115,19,Gadelandet,723730.0
+116,20,Gadelandet,650682.0
+117,21,Gadelandet,603000.0
+118,22,Gadelandet,497635.0
+119,23,Gadelandet,329998.0
+120,00,Hareskovvej,530646.0
+121,01,Hareskovvej,243116.0
+122,02,Hareskovvej,158363.0
+123,03,Hareskovvej,128375.0
+124,04,Hareskovvej,150651.0
+125,05,Hareskovvej,427885.0
+126,06,Hareskovvej,1999783.0
+127,07,Hareskovvej,3832487.0
+128,08,Hareskovvej,3956144.0
+129,09,Hareskovvej,2926152.0
+130,10,Hareskovvej,2564664.0
+131,11,Hareskovvej,2729754.0
+132,12,Hareskovvej,2991214.0
+133,13,Hareskovvej,3132964.0
+134,14,Hareskovvej,3745398.0
+135,15,Hareskovvej,4629238.0
+136,16,Hareskovvej,4689950.0
+137,17,Hareskovvej,4024510.0
+138,18,Hareskovvej,2937778.0
+139,19,Hareskovvej,1947326.0
+140,20,Hareskovvej,1518759.0
+141,21,Hareskovvej,1450208.0
+142,22,Hareskovvej,1418040.0
+143,23,Hareskovvej,988178.0
+144,00,Islands Brygge,175384.0
+145,01,Islands Brygge,114059.0
+146,02,Islands Brygge,80404.0
+147,03,Islands Brygge,61566.0
+148,04,Islands Brygge,54526.0
+149,05,Islands Brygge,76190.0
+150,06,Islands Brygge,195981.0
+151,07,Islands Brygge,672223.0
+152,08,Islands Brygge,1294985.0
+153,09,Islands Brygge,1073486.0
+154,10,Islands Brygge,812456.0
+155,11,Islands Brygge,818026.0
+156,12,Islands Brygge,891492.0
+157,13,Islands Brygge,896351.0
+158,14,Islands Brygge,935119.0
+159,15,Islands Brygge,1109600.0
+160,16,Islands Brygge,1215466.0
+161,17,Islands Brygge,1038416.0
+162,18,Islands Brygge,786190.0
+163,19,Islands Brygge,587632.0
+164,20,Islands Brygge,455834.0
+165,21,Islands Brygge,377301.0
+166,22,Islands Brygge,333406.0
+167,23,Islands Brygge,269820.0
+168,00,Jagtvej,962906.0
+169,01,Jagtvej,655808.0
+170,02,Jagtvej,505251.0
+171,03,Jagtvej,422692.0
+172,04,Jagtvej,393113.0
+173,05,Jagtvej,501800.0
+174,06,Jagtvej,1111322.0
+175,07,Jagtvej,1970620.0
+176,08,Jagtvej,2156804.0
+177,09,Jagtvej,2330460.0
+178,10,Jagtvej,2631241.0
+179,11,Jagtvej,2851121.0
+180,12,Jagtvej,2970168.0
+181,13,Jagtvej,2918301.0
+182,14,Jagtvej,2938651.0
+183,15,Jagtvej,2871272.0
+184,16,Jagtvej,2801760.0
+185,17,Jagtvej,2811107.0
+186,18,Jagtvej,2764541.0
+187,19,Jagtvej,2370083.0
+188,20,Jagtvej,1977956.0
+189,21,Jagtvej,1849535.0
+190,22,Jagtvej,1800615.0
+191,23,Jagtvej,1449194.0
+192,00,KalkbrÃ¦nderihavnsgade,349389.0
+193,01,KalkbrÃ¦nderihavnsgade,221779.0
+194,02,KalkbrÃ¦nderihavnsgade,161039.0
+195,03,KalkbrÃ¦nderihavnsgade,155694.0
+196,04,KalkbrÃ¦nderihavnsgade,177074.0
+197,05,KalkbrÃ¦nderihavnsgade,302630.0
+198,06,KalkbrÃ¦nderihavnsgade,791675.0
+199,07,KalkbrÃ¦nderihavnsgade,1983558.0
+200,08,KalkbrÃ¦nderihavnsgade,3189799.0
+201,09,KalkbrÃ¦nderihavnsgade,2800775.0
+202,10,KalkbrÃ¦nderihavnsgade,2511816.0
+203,11,KalkbrÃ¦nderihavnsgade,2413806.0
+204,12,KalkbrÃ¦nderihavnsgade,2587445.0
+205,13,KalkbrÃ¦nderihavnsgade,2592390.0
+206,14,KalkbrÃ¦nderihavnsgade,2808426.0
+207,15,KalkbrÃ¦nderihavnsgade,3242780.0
+208,16,KalkbrÃ¦nderihavnsgade,3319516.0
+209,17,KalkbrÃ¦nderihavnsgade,2849699.0
+210,18,KalkbrÃ¦nderihavnsgade,2122852.0
+211,19,KalkbrÃ¦nderihavnsgade,1424045.0
+212,20,KalkbrÃ¦nderihavnsgade,988041.0
+213,21,KalkbrÃ¦nderihavnsgade,804142.0
+214,22,KalkbrÃ¦nderihavnsgade,714695.0
+215,23,KalkbrÃ¦nderihavnsgade,561730.0
+216,00,Kalvebod Brygge,927038.0
+217,01,Kalvebod Brygge,667665.0
+218,02,Kalvebod Brygge,556855.0
+219,03,Kalvebod Brygge,614907.0
+220,04,Kalvebod Brygge,984014.0
+221,05,Kalvebod Brygge,2214271.0
+222,06,Kalvebod Brygge,4355401.0
+223,07,Kalvebod Brygge,5961267.0
+224,08,Kalvebod Brygge,5919270.0
+225,09,Kalvebod Brygge,5893524.0
+226,10,Kalvebod Brygge,5995083.0
+227,11,Kalvebod Brygge,6354618.0
+228,12,Kalvebod Brygge,6592038.0
+229,13,Kalvebod Brygge,6893449.0
+230,14,Kalvebod Brygge,7356730.0
+231,15,Kalvebod Brygge,7480876.0
+232,16,Kalvebod Brygge,7207881.0
+233,17,Kalvebod Brygge,6076616.0
+234,18,Kalvebod Brygge,4602490.0
+235,19,Kalvebod Brygge,3450540.0
+236,20,Kalvebod Brygge,2891826.0
+237,21,Kalvebod Brygge,2530578.0
+238,22,Kalvebod Brygge,2228274.0
+239,23,Kalvebod Brygge,1544224.0
+240,00,Molbechsvej,46336.0
+241,01,Molbechsvej,30327.0
+242,02,Molbechsvej,23556.0
+243,03,Molbechsvej,22603.0
+244,04,Molbechsvej,36349.0
+245,05,Molbechsvej,106002.0
+246,06,Molbechsvej,351460.0
+247,07,Molbechsvej,686427.0
+248,08,Molbechsvej,574239.0
+249,09,Molbechsvej,453155.0
+250,10,Molbechsvej,450451.0
+251,11,Molbechsvej,493549.0
+252,12,Molbechsvej,504072.0
+253,13,Molbechsvej,568022.0
+254,14,Molbechsvej,706964.0
+255,15,Molbechsvej,871776.0
+256,16,Molbechsvej,765906.0
+257,17,Molbechsvej,528337.0
+258,18,Molbechsvej,365195.0
+259,19,Molbechsvej,267829.0
+260,20,Molbechsvej,213469.0
+261,21,Molbechsvej,175098.0
+262,22,Molbechsvej,127308.0
+263,23,Molbechsvej,77189.0
+264,00,Mozartsvej,199057.0
+265,01,Mozartsvej,115257.0
+266,02,Mozartsvej,90167.0
+267,03,Mozartsvej,74606.0
+268,04,Mozartsvej,79993.0
+269,05,Mozartsvej,167303.0
+270,06,Mozartsvej,308804.0
+271,07,Mozartsvej,494398.0
+272,08,Mozartsvej,622597.0
+273,09,Mozartsvej,574705.0
+274,10,Mozartsvej,617004.0
+275,11,Mozartsvej,673708.0
+276,12,Mozartsvej,722499.0
+277,13,Mozartsvej,750754.0
+278,14,Mozartsvej,789228.0
+279,15,Mozartsvej,850445.0
+280,16,Mozartsvej,850117.0
+281,17,Mozartsvej,746746.0
+282,18,Mozartsvej,629358.0
+283,19,Mozartsvej,514050.0
+284,20,Mozartsvej,445345.0
+285,21,Mozartsvej,387914.0
+286,22,Mozartsvej,340242.0
+287,23,Mozartsvej,267339.0
+288,00,Roskildevej,313487.0
+289,01,Roskildevej,202325.0
+290,02,Roskildevej,160459.0
+291,03,Roskildevej,135645.0
+292,04,Roskildevej,152940.0
+293,05,Roskildevej,279117.0
+294,06,Roskildevej,795579.0
+295,07,Roskildevej,1604170.0
+296,08,Roskildevej,1656202.0
+297,09,Roskildevej,1337918.0
+298,10,Roskildevej,1410713.0
+299,11,Roskildevej,1551807.0
+300,12,Roskildevej,1683497.0
+301,13,Roskildevej,1752719.0
+302,14,Roskildevej,1960157.0
+303,15,Roskildevej,2172829.0
+304,16,Roskildevej,2099589.0
+305,17,Roskildevej,1769683.0
+306,18,Roskildevej,1353202.0
+307,19,Roskildevej,1014975.0
+308,20,Roskildevej,848593.0
+309,21,Roskildevej,778626.0
+310,22,Roskildevej,707415.0
+311,23,Roskildevej,508564.0
+312,00,Skt. Kjelds Gade,30807.0
+313,01,Skt. Kjelds Gade,22750.0
+314,02,Skt. Kjelds Gade,19544.0
+315,03,Skt. Kjelds Gade,18068.0
+316,04,Skt. Kjelds Gade,17811.0
+317,05,Skt. Kjelds Gade,32504.0
+318,06,Skt. Kjelds Gade,82819.0
+319,07,Skt. Kjelds Gade,201402.0
+320,08,Skt. Kjelds Gade,190042.0
+321,09,Skt. Kjelds Gade,153869.0
+322,10,Skt. Kjelds Gade,151696.0
+323,11,Skt. Kjelds Gade,165716.0
+324,12,Skt. Kjelds Gade,173009.0
+325,13,Skt. Kjelds Gade,186298.0
+326,14,Skt. Kjelds Gade,209905.0
+327,15,Skt. Kjelds Gade,231305.0
+328,16,Skt. Kjelds Gade,244096.0
+329,17,Skt. Kjelds Gade,223892.0
+330,18,Skt. Kjelds Gade,180177.0
+331,19,Skt. Kjelds Gade,143222.0
+332,20,Skt. Kjelds Gade,112904.0
+333,21,Skt. Kjelds Gade,97256.0
+334,22,Skt. Kjelds Gade,77812.0
+335,23,Skt. Kjelds Gade,52188.0
+336,00,SÃ¸lvgade,428961.0
+337,01,SÃ¸lvgade,311243.0
+338,02,SÃ¸lvgade,263084.0
+339,03,SÃ¸lvgade,260586.0
+340,04,SÃ¸lvgade,317315.0
+341,05,SÃ¸lvgade,484129.0
+342,06,SÃ¸lvgade,1172248.0
+343,07,SÃ¸lvgade,2273121.0
+344,08,SÃ¸lvgade,2554952.0
+345,09,SÃ¸lvgade,2210647.0
+346,10,SÃ¸lvgade,2103607.0
+347,11,SÃ¸lvgade,2235177.0
+348,12,SÃ¸lvgade,2342798.0
+349,13,SÃ¸lvgade,2361069.0
+350,14,SÃ¸lvgade,2538807.0
+351,15,SÃ¸lvgade,2722977.0
+352,16,SÃ¸lvgade,2753231.0
+353,17,SÃ¸lvgade,2403241.0
+354,18,SÃ¸lvgade,1795610.0
+355,19,SÃ¸lvgade,1281423.0
+356,20,SÃ¸lvgade,997681.0
+357,21,SÃ¸lvgade,932510.0
+358,22,SÃ¸lvgade,872125.0
+359,23,SÃ¸lvgade,650207.0
+360,00,Torvegade,1714188.0
+361,01,Torvegade,1248920.0
+362,02,Torvegade,992929.0
+363,03,Torvegade,901552.0
+364,04,Torvegade,1067187.0
+365,05,Torvegade,1680292.0
+366,06,Torvegade,3076077.0
+367,07,Torvegade,4895423.0
+368,08,Torvegade,5017947.0
+369,09,Torvegade,5055788.0
+370,10,Torvegade,5226630.0
+371,11,Torvegade,5629049.0
+372,12,Torvegade,6060960.0
+373,13,Torvegade,6325602.0
+374,14,Torvegade,6807611.0
+375,15,Torvegade,7181062.0
+376,16,Torvegade,7117770.0
+377,17,Torvegade,6685441.0
+378,18,Torvegade,5763519.0
+379,19,Torvegade,4750222.0
+380,20,Torvegade,3911911.0
+381,21,Torvegade,3409474.0
+382,22,Torvegade,3182882.0
+383,23,Torvegade,2467103.0
+384,00,Tuborgvej,802942.0
+385,01,Tuborgvej,454612.0
+386,02,Tuborgvej,305312.0
+387,03,Tuborgvej,241491.0
+388,04,Tuborgvej,278532.0
+389,05,Tuborgvej,579462.0
+390,06,Tuborgvej,2156294.0
+391,07,Tuborgvej,5381607.0
+392,08,Tuborgvej,6311661.0
+393,09,Tuborgvej,4864419.0
+394,10,Tuborgvej,4436999.0
+395,11,Tuborgvej,4670137.0
+396,12,Tuborgvej,5020495.0
+397,13,Tuborgvej,5186168.0
+398,14,Tuborgvej,5926305.0
+399,15,Tuborgvej,6859241.0
+400,16,Tuborgvej,6795697.0
+401,17,Tuborgvej,5813576.0
+402,18,Tuborgvej,4354396.0
+403,19,Tuborgvej,3056451.0
+404,20,Tuborgvej,2365732.0
+405,21,Tuborgvej,2188961.0
+406,22,Tuborgvej,2013943.0
+407,23,Tuborgvej,1453277.0
+408,00,Vejlands AlleÂ´,634625.0
+409,01,Vejlands AlleÂ´,351529.0
+410,02,Vejlands AlleÂ´,232225.0
+411,03,Vejlands AlleÂ´,199093.0
+412,04,Vejlands AlleÂ´,244885.0
+413,05,Vejlands AlleÂ´,578404.0
+414,06,Vejlands AlleÂ´,1739722.0
+415,07,Vejlands AlleÂ´,3237063.0
+416,08,Vejlands AlleÂ´,3878750.0
+417,09,Vejlands AlleÂ´,3073338.0
+418,10,Vejlands AlleÂ´,3030752.0
+419,11,Vejlands AlleÂ´,3307560.0
+420,12,Vejlands AlleÂ´,3664962.0
+421,13,Vejlands AlleÂ´,3894133.0
+422,14,Vejlands AlleÂ´,4363886.0
+423,15,Vejlands AlleÂ´,4869070.0
+424,16,Vejlands AlleÂ´,4839612.0
+425,17,Vejlands AlleÂ´,4172117.0
+426,18,Vejlands AlleÂ´,3274579.0
+427,19,Vejlands AlleÂ´,2416356.0
+428,20,Vejlands AlleÂ´,1917434.0
+429,21,Vejlands AlleÂ´,1578081.0
+430,22,Vejlands AlleÂ´,1416718.0
+431,23,Vejlands AlleÂ´,1054638.0
+432,00,Vigerslev AllÃ©,1020301.0
+433,01,Vigerslev AllÃ©,685077.0
+434,02,Vigerslev AllÃ©,527106.0
+435,03,Vigerslev AllÃ©,469252.0
+436,04,Vigerslev AllÃ©,512972.0
+437,05,Vigerslev AllÃ©,769466.0
+438,06,Vigerslev AllÃ©,1544998.0
+439,07,Vigerslev AllÃ©,2944063.0
+440,08,Vigerslev AllÃ©,4058714.0
+441,09,Vigerslev AllÃ©,3478054.0
+442,10,Vigerslev AllÃ©,3290689.0
+443,11,Vigerslev AllÃ©,3423851.0
+444,12,Vigerslev AllÃ©,3682577.0
+445,13,Vigerslev AllÃ©,3849330.0
+446,14,Vigerslev AllÃ©,4183543.0
+447,15,Vigerslev AllÃ©,4639517.0
+448,16,Vigerslev AllÃ©,4755714.0
+449,17,Vigerslev AllÃ©,4208683.0
+450,18,Vigerslev AllÃ©,3473079.0
+451,19,Vigerslev AllÃ©,2749879.0
+452,20,Vigerslev AllÃ©,2248365.0
+453,21,Vigerslev AllÃ©,2039888.0
+454,22,Vigerslev AllÃ©,1817112.0
+455,23,Vigerslev AllÃ©,1480836.0
+456,00,Wittenberggade,121073.0
+457,01,Wittenberggade,82942.0
+458,02,Wittenberggade,68739.0
+459,03,Wittenberggade,70576.0
+460,04,Wittenberggade,111953.0
+461,05,Wittenberggade,266729.0
+462,06,Wittenberggade,513426.0
+463,07,Wittenberggade,605943.0
+464,08,Wittenberggade,587620.0
+465,09,Wittenberggade,729745.0
+466,10,Wittenberggade,880605.0
+467,11,Wittenberggade,960198.0
+468,12,Wittenberggade,999782.0
+469,13,Wittenberggade,1055690.0
+470,14,Wittenberggade,1147284.0
+471,15,Wittenberggade,1164908.0
+472,16,Wittenberggade,1048730.0
+473,17,Wittenberggade,832492.0
+474,18,Wittenberggade,606611.0
+475,19,Wittenberggade,463987.0
+476,20,Wittenberggade,391304.0
+477,21,Wittenberggade,343811.0
+478,22,Wittenberggade,271256.0
+479,23,Wittenberggade,186330.0
+480,00,Ãboulevard,1247596.0
+481,01,Ãboulevard,699601.0
+482,02,Ãboulevard,570279.0
+483,03,Ãboulevard,536778.0
+484,04,Ãboulevard,606366.0
+485,05,Ãboulevard,914338.0
+486,06,Ãboulevard,2252149.0
+487,07,Ãboulevard,4187450.0
+488,08,Ãboulevard,4351197.0
+489,09,Ãboulevard,3680757.0
+490,10,Ãboulevard,3543867.0
+491,11,Ãboulevard,3845417.0
+492,12,Ãboulevard,4169738.0
+493,13,Ãboulevard,4329606.0
+494,14,Ãboulevard,4841471.0
+495,15,Ãboulevard,5449298.0
+496,16,Ãboulevard,5435087.0
+497,17,Ãboulevard,4913996.0
+498,18,Ãboulevard,3970390.0
+499,19,Ãboulevard,2946964.0
+500,20,Ãboulevard,2480938.0
+501,21,Ãboulevard,2312328.0
+502,22,Ãboulevard,2213317.0
+503,23,Ãboulevard,1746368.0
+504,00,Ãrestads Boulevard,121406.0
+505,01,Ãrestads Boulevard,81392.0
+506,02,Ãrestads Boulevard,65078.0
+507,03,Ãrestads Boulevard,73901.0
+508,04,Ãrestads Boulevard,106851.0
+509,05,Ãrestads Boulevard,268235.0
+510,06,Ãrestads Boulevard,710095.0
+511,07,Ãrestads Boulevard,1248124.0
+512,08,Ãrestads Boulevard,1161713.0
+513,09,Ãrestads Boulevard,1122596.0
+514,10,Ãrestads Boulevard,1340929.0
+515,11,Ãrestads Boulevard,1540122.0
+516,12,Ãrestads Boulevard,1642204.0
+517,13,Ãrestads Boulevard,1746572.0
+518,14,Ãrestads Boulevard,1926097.0
+519,15,Ãrestads Boulevard,2048910.0
+520,16,Ãrestads Boulevard,1938371.0
+521,17,Ãrestads Boulevard,1570959.0
+522,18,Ãrestads Boulevard,1203130.0
+523,19,Ãrestads Boulevard,902737.0
+524,20,Ãrestads Boulevard,581123.0
+525,21,Ãrestads Boulevard,380533.0
+526,22,Ãrestads Boulevard,261133.0
+527,23,Ãrestads Boulevard,174622.0
